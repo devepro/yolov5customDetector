@@ -17,6 +17,3 @@ This is an implementation of the Ultralytics Yolov5 github repository on custom 
 # Train yolov5l on custom dataset for 300 epochs
 $ python train.py --img 416 --batch 16 --epochs 30 --data bottle.yaml --cfg training/yolov5s.yaml -—weights ‘’
 
-
-
-You can read more on my blog : [Create an End to End Object Detection Pipeline using Yolov5](https://lionbridge.ai/articles/create-an-end-to-end-object-detection-pipeline-using-yolov5/)
