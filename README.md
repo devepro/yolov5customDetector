@@ -1,6 +1,6 @@
 # Yolov5 Custom Detector:
 
-![](messigif.gif)
+![alt text](https://github.com/devepro/yolov5customDetector/blob/main/runs/train/exp/test_batch0_pred.jpg?raw=true)
 
 This is an implementation of the Ultralytics Yolov5 github repository on custom data. To run this code on the bottle data:
 
