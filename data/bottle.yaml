@@ -1,0 +1,6 @@
+train: ../bottle/train/images
+val: ../bottle/valid/images
+
+nc: 1
+names: ['bottle']
+
